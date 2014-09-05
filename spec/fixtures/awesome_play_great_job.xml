@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLAY SYSTEM "play.dtd">
+
+<PLAY>
+<TITLE>Awesome Play Great Job</TITLE>
+
+<FM>
+<P>Text placed in the public domain by Tom Dunlap, 2014.</P>
+<P>XML by Tom Dunlap, 2014.</P>
+<P>This work may be freely copied and distributed worldwide.</P>
+</FM>
+
+
+<PERSONAE>
+<TITLE>Rev Spring Crew</TITLE>
+<PERSONA>TOM</PERSONA>
+<PERSONA>JOHN</PERSONA>
+</PERSONAE>
+
+<SCNDESCR>SCENE Cincinnati: Ohio.</SCNDESCR>
+<PLAYSUBT>Awesome Play</PLAYSUBT>
+
+<ACT><TITLE>ACT I</TITLE>
+
+<SCENE><TITLE>SCENE I.  A day in the Ruby mines.</TITLE>
+<STAGEDIR>TOM is typing at his computer, skype chime begins</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>TOM</SPEAKER>
+<LINE>Hello?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>JOHN</SPEAKER>
+<LINE>Hey Tom</LINE>
+<LINE>Have you finished your TDD homework yet?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>TOM</SPEAKER>
+<LINE>No, not yet.</LINE>
+</SPEECH>
+
+</SCENE>
+</ACT>
+</PLAY>
